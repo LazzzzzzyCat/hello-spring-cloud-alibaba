@@ -1,5 +1,5 @@
 # spring-cloud-alibaba-demo
-#####version:
+##### version:
 
 + spring-cloud-alibaba:2.1.0.RELEAS
 + spring-cloud:Greenwich.RELEASE
