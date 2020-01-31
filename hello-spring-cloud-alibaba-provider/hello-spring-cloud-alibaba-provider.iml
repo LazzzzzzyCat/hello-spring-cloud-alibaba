@@ -81,13 +81,13 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.1.9.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.6.3" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-alibaba-nacos-discovery:0.9.0.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-alibaba-nacos-discovery:0.9.0.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-client:1.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-common:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.cloud:spring-cloud-alibaba-nacos-discovery:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-client:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-common:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-api:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.47" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:19.0" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
