@@ -1,0 +1,15 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: spring-cloud-netflix-zuul
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1
+
+zuul:
+  routes:
+    users:
+      path: /**
+      serviceId: server-consumer
